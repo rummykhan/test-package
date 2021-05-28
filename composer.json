@@ -1,0 +1,10 @@
+{
+    "name": "rummykhan/test-package",
+    "authors": [
+        {
+            "name": "Rehan Manzoor",
+            "email": "rehan_manzoor@outlook.com"
+        }
+    ],
+    "require": {}
+}
